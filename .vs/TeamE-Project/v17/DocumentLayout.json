@@ -1,18 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\areascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\models\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\controllers\\descricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\descricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\models\\descricoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\descricoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\controllers\\tiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\tiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\models\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\tipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,56 +50,137 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TeamE-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TeamE-Project\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-28T22:32:35.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeamE-Project",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeDocumentMoniker": "TeamE-Project\\TeamE-Project.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeToolTip": "TeamE-Project\\TeamE-Project.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T21:59:31.503Z",
+              "Title": "AreasController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\AreasController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\AreasController.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\AreasController.cs*",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\AreasController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:32:05.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
-              "RelativeDocumentMoniker": "TeamE-Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
-              "RelativeToolTip": "TeamE-Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-28T21:31:11.905Z",
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Area.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Area.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Area.cs*",
+              "RelativeToolTip": "TeamE-Project\\Models\\Area.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:31:37.409Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 252,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescricoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\DescricoesController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\DescricoesController.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\DescricoesController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\DescricoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:31:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Descricoes.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Descricoes.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Descricoes.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Descricoes.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Descricoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:30:07.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\CidadesController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\CidadesController.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\CidadesController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\CidadesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:29:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cidades.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Cidades.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Cidades.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Cidades.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Cidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:27:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TiposController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\TiposController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\TiposController.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\TiposController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\TiposController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:26:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tipos.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Tipos.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Tipos.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Tipos.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Tipos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:26:16.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardsController.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\DashboardsController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\DashboardsController.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Controllers\\DashboardsController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\DashboardsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:25:37.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Dashboard.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Dashboard.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T14:24:51.738Z",
+              "EditorCaption": ""
             }
           ]
         }
