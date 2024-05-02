@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\areas\\identity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\areas\\identity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "RelativeToolTip": "TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:41:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
+              "RelativeDocumentMoniker": "TeamE-Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
+              "RelativeToolTip": "TeamE-Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T23:27:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\sidebar.cshtml",
-              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Shared\\sidebar.cshtml",
-              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\sidebar.cshtml",
-              "RelativeToolTip": "TeamE-Project\\Views\\Shared\\sidebar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T11:49:49.856Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:00:15.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TeamE-Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAxAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAACANtaQ/akcwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-02T11:45:57.229Z",
+              "WhenOpened": "2024-05-02T17:55:44.296Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T17:56:23.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

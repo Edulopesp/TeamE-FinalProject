@@ -521,3 +521,4 @@ C:\Users\Cesae\OneDrive - CESAE\Documents\GitHub\TeamE-FinalProject\TeamE-Projec
 C:\Users\Cesae\OneDrive - CESAE\Documents\GitHub\TeamE-FinalProject\TeamE-Project\obj\Debug\net8.0\TeamE-Project.pdb
 C:\Users\Cesae\OneDrive - CESAE\Documents\GitHub\TeamE-FinalProject\TeamE-Project\obj\Debug\net8.0\TeamE-Project.genruntimeconfig.cache
 C:\Users\Cesae\OneDrive - CESAE\Documents\GitHub\TeamE-FinalProject\TeamE-Project\obj\Debug\net8.0\ref\TeamE-Project.dll
+C:\Users\User\source\repos\TeamE-Project\TeamE-Project\obj\Debug\net8.0\TeamE-Project.sourcelink.json
