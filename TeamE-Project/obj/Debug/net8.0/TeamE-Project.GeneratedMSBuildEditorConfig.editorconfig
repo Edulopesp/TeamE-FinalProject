@@ -74,12 +74,132 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/Error.cshtml]
@@ -90,8 +210,56 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/_ViewImports.cshtml]
