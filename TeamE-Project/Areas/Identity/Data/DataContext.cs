@@ -14,10 +14,10 @@ public class DataContext : IdentityDbContext<IdentityUser>
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseMySql(
-            "Server=TeamE-Project;Database=teame_db;User=root;Password=yourpassword;",
-            new MySqlServerVersion(new Version(8, 0, 22))
-        );
+        //optionsBuilder.UseMySql(
+        //    "Server=TeamE-Project;Database=teame_db;User=root;Password=yourpassword;",
+        //    new MySqlServerVersion(new Version(8, 0, 22))
+        //);
     }
 
     protected override void OnModelCreating(ModelBuilder builder)
