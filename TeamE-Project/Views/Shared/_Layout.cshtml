@@ -22,7 +22,9 @@
 
 </head>
 <body>
-    <header>
+    <div class="min-height-300 bg-primary position-absolute w-100" style="background-color: rgb(55,35,106);
+    background-image: linear-gradient(90deg, rgba(55,35,106,1) 0%, rgba(235,6,141,1) 50%, rgba(0,172,236,1) 100%);"></div>   
+    @*  <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TeamE_Project</a>
@@ -43,14 +45,17 @@
             </div>
         </nav>
     </header>
+ *@
+
+ 
+        @Html.Partial("_Sidebar")
+
+    <div class="col-md-10 offset-md-2">
+        @Html.Partial("_Navbar")
+     </div>
 
 
-    @Html.Partial("_Sidebar")
-
-    @* @Html.Partial("_Navbar") *@
-
-
-    <div class="container">
+    <div class="col-md-10 offset-md-2">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
