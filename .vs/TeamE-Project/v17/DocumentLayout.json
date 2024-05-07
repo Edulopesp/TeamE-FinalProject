@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\areas\\identity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\areas\\identity\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TeamE-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TeamE-Project\\ScaffoldingReadMe.txt",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TeamE-Project\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.Development.json",
+              "RelativeToolTip": "TeamE-Project\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-28T22:32:35.896Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T21:19:03.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeamE-Project",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeDocumentMoniker": "TeamE-Project\\TeamE-Project.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeToolTip": "TeamE-Project\\TeamE-Project.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T21:59:31.503Z",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Program.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Program.cs",
+              "RelativeToolTip": "TeamE-Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T20:36:38.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAJIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T20:34:40.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "RelativeToolTip": "TeamE-Project\\Areas\\Identity\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:41:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
               "RelativeDocumentMoniker": "TeamE-Project\\appsettings.json",
               "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
               "RelativeToolTip": "TeamE-Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-28T21:31:11.905Z",
+              "WhenOpened": "2024-05-02T23:27:31.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TeamE-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T18:00:15.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAACANtaQ/akcwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T17:55:44.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T17:56:23.174Z",
               "EditorCaption": ""
             }
           ]
