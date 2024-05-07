@@ -1,719 +1,719 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeamE-Project.bundle.scp.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeamE-Project.bundle.scp.css",
       "PackagePath": "staticwebassets\\TeamE-Project.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\argon-dashboard.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\argon-dashboard.css",
       "PackagePath": "staticwebassets\\css\\argon-dashboard.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\argon-dashboard.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\argon-dashboard.css.map",
       "PackagePath": "staticwebassets\\css\\argon-dashboard.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\argon-dashboard.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\argon-dashboard.min.css",
       "PackagePath": "staticwebassets\\css\\argon-dashboard.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\nucleo-icons.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\nucleo-svg.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\nucleo-svg.css",
       "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.eot",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.eot",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.svg",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.ttf",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.ttf",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.woff",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.woff",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.woff2",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo-icons.woff2",
       "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo.eot",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo.eot",
       "PackagePath": "staticwebassets\\fonts\\nucleo.eot"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo.ttf",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo.ttf",
       "PackagePath": "staticwebassets\\fonts\\nucleo.ttf"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo.woff",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo.woff",
       "PackagePath": "staticwebassets\\fonts\\nucleo.woff"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\fonts\\nucleo.woff2",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\fonts\\nucleo.woff2",
       "PackagePath": "staticwebassets\\fonts\\nucleo.woff2"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\apple-icon.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\apple-icon.png",
       "PackagePath": "staticwebassets\\img\\apple-icon.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\bg-profile.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\bg-profile.jpg",
       "PackagePath": "staticwebassets\\img\\bg-profile.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\bg1.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\bg1.jpg",
       "PackagePath": "staticwebassets\\img\\bg1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\bruce-mars.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\bruce-mars.jpg",
       "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\carousel-1.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\carousel-2.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\carousel-3.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\carousel-3.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-10.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-10.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-10.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-11.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-11.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-11.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-6.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-6.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-8.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved-8.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved0.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved0.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved1.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved1.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved10.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved10.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved10.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved11-small.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved11-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved11-small.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved11.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved11.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved11.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved12.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved12.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved12.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved13.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved13.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved13.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved14.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved14.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved19.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved19.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved19.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved2.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved2.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved21.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved21.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved21.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved3.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved3.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved3.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved4.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved4.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved4.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved5-small.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved5-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved5-small.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved5.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved5.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved5.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved6-small.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved6-small.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved6-small.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved6.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved6.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved7.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved7.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved7.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved8.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved8.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\curved9.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\curved9.jpg",
       "PackagePath": "staticwebassets\\img\\curved-images\\curved9.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\curved-images\\white-curved.jpeg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\curved-images\\white-curved.jpeg",
       "PackagePath": "staticwebassets\\img\\curved-images\\white-curved.jpeg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\down-arrow-dark.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\down-arrow-dark.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\down-arrow-white.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\down-arrow-white.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\down-arrow.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\down-arrow.svg",
       "PackagePath": "staticwebassets\\img\\down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\home-decor-1.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\home-decor-1.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\home-decor-2.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\home-decor-2.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\home-decor-3.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\home-decor-3.jpg",
       "PackagePath": "staticwebassets\\img\\home-decor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\icons\\flags\\AU.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\icons\\flags\\AU.png",
       "PackagePath": "staticwebassets\\img\\icons\\flags\\AU.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\icons\\flags\\BR.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\icons\\flags\\BR.png",
       "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\icons\\flags\\DE.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\icons\\flags\\DE.png",
       "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\icons\\flags\\GB.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\icons\\flags\\GB.png",
       "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\icons\\flags\\US.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\icons\\flags\\US.png",
       "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\illustrations\\icon-documentation.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\illustrations\\icon-documentation.svg",
       "PackagePath": "staticwebassets\\img\\illustrations\\icon-documentation.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\illustrations\\rocket-white.png",
       "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\ivana-square.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\ivana-square.jpg",
       "PackagePath": "staticwebassets\\img\\ivana-square.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\ivancik.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\ivancik.jpg",
       "PackagePath": "staticwebassets\\img\\ivancik.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\kal-visuals-square.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\kal-visuals-square.jpg",
       "PackagePath": "staticwebassets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logo-ct-dark.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logo-ct-dark.png",
       "PackagePath": "staticwebassets\\img\\logo-ct-dark.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logo-ct.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logo-ct.png",
       "PackagePath": "staticwebassets\\img\\logo-ct.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-completa.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-completa.png",
       "PackagePath": "staticwebassets\\img\\logos\\logo-cesae-completa.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta-b.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta-b.png",
       "PackagePath": "staticwebassets\\img\\logos\\logo-cesae-curta-b.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta-w.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta-w.png",
       "PackagePath": "staticwebassets\\img\\logos\\logo-cesae-curta-w.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\logo-cesae-curta.png",
       "PackagePath": "staticwebassets\\img\\logos\\logo-cesae-curta.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\mastercard.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\logos\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\logos\\visa.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\logos\\visa.png",
       "PackagePath": "staticwebassets\\img\\logos\\visa.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\marie.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\marie.jpg",
       "PackagePath": "staticwebassets\\img\\marie.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\pattern-lines.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\pattern-lines.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\pattern-lines.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\shape-1.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\shape-1.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-1.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\shape-2.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\shape-2.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-2.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\shape-3.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\shape-3.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\shape-3.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\wave-down.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\wave-down.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\wave-down.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\wave-up.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\wave-up.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\wave-up.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\waves-gray.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\waves-gray.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\waves-gray.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\shapes\\waves-white.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\shapes\\waves-white.svg",
       "PackagePath": "staticwebassets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
       "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-atlassian.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-invision.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-jira.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-jira.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-slack.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-spotify.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-webdev.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-webdev.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\small-logos\\logo-xd.svg",
       "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\team-1.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\team-2.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\team-3.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\team-4.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\angular.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\angular.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\angular.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\bootstrap.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\bootstrap.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\bootstrap.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\dribbble.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\dribbble.png",
       "PackagePath": "staticwebassets\\img\\theme\\dribbble.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\dropbox.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\dropbox.png",
       "PackagePath": "staticwebassets\\img\\theme\\dropbox.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\mastercard.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\theme\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\paypal.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\paypal.png",
       "PackagePath": "staticwebassets\\img\\theme\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\react.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\react.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\react.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\sketch.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\sketch.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\sketch.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\slack.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\slack.png",
       "PackagePath": "staticwebassets\\img\\theme\\slack.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\spotify.jpeg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\spotify.jpeg",
       "PackagePath": "staticwebassets\\img\\theme\\spotify.jpeg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\tim.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\tim.png",
       "PackagePath": "staticwebassets\\img\\theme\\tim.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\unass.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\unass.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\unass.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\visa.png",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\visa.png",
       "PackagePath": "staticwebassets\\img\\theme\\visa.png"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\theme\\vue.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\theme\\vue.jpg",
       "PackagePath": "staticwebassets\\img\\theme\\vue.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\img\\vr-bg.jpg",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\img\\vr-bg.jpg",
       "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\argon-dashboard.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\argon-dashboard.js",
       "PackagePath": "staticwebassets\\js\\argon-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\argon-dashboard.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\argon-dashboard.js.map",
       "PackagePath": "staticwebassets\\js\\argon-dashboard.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\argon-dashboard.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\argon-dashboard.min.js",
       "PackagePath": "staticwebassets\\js\\argon-dashboard.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\core\\bootstrap.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\core\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\core\\popper.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\core\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\plugins\\Chart.extension.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\plugins\\Chart.extension.js",
       "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\plugins\\bootstrap-notify.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\plugins\\bootstrap-notify.js",
       "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\plugins\\chartjs.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
       "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
