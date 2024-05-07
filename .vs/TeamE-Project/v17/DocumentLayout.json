@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\teame-project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\user\\source\\repos\\teame-project\\teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\dashboards\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\cesae\\onedrive - cesae\\documents\\github\\teame-finalproject\\teame-project\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,56 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TeamE-Project\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TeamE-Project\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-28T22:32:35.896Z",
+              "DocumentIndex": 0,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T12:10:29.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeamE-Project",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeDocumentMoniker": "TeamE-Project\\TeamE-Project.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-              "RelativeToolTip": "TeamE-Project\\TeamE-Project.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T21:59:31.503Z",
+              "DocumentIndex": 3,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:50:24.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:15:54.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
-              "RelativeDocumentMoniker": "TeamE-Project\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\appsettings.json",
-              "RelativeToolTip": "TeamE-Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-28T21:31:11.905Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "RelativeToolTip": "TeamE-Project\\Views\\Dashboards\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T20:34:40.521Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 252,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

@@ -640,6 +640,13 @@
           }
         }
       },
+      "LibSassBuilder/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/LibSassBuilder.props": {},
+          "build/LibSassBuilder.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/8.0.4": {
         "type": "package",
         "compile": {
@@ -3684,6 +3691,36 @@
         "lib/netstandard1.0/zh-Hant/Humanizer.resources.dll",
         "lib/netstandard2.0/zh-Hant/Humanizer.resources.dll",
         "logo.png"
+      ]
+    },
+    "LibSassBuilder/3.0.0": {
+      "sha512": "lbQw3xsZ9SxV4H3EN19QkXFueU6pnPMhqE0upSWnnMw1jhvlt7fkv0bCVVKn3gedFf2t4V4BKkWyJE4cz0AM5g==",
+      "type": "package",
+      "path": "libsassbuilder/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LibSassBuilder.csproj",
+        "build/DesignTime/LibSassBuilder.DesignTime.targets",
+        "build/DesignTime/Rules/ProjectItemsSchema.xaml",
+        "build/DesignTime/Rules/SassFileType.xaml",
+        "build/LibSassBuilder.props",
+        "build/LibSassBuilder.targets",
+        "libsassbuilder.3.0.0.nupkg.sha512",
+        "libsassbuilder.nuspec",
+        "sass.png",
+        "tool/AdvancedStringBuilder.dll",
+        "tool/CommandLine.dll",
+        "tool/LibSassBuilder.deps.json",
+        "tool/LibSassBuilder.dll",
+        "tool/LibSassBuilder.exe",
+        "tool/LibSassBuilder.pdb",
+        "tool/LibSassBuilder.runtimeconfig.json",
+        "tool/LibSassHost.dll",
+        "tool/runtimes/linux-x64/native/libsass.so",
+        "tool/runtimes/osx-x64/native/libsass.dylib",
+        "tool/runtimes/win-x64/native/libsass.dll",
+        "tool/runtimes/win-x86/native/libsass.dll"
       ]
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.4": {
@@ -8242,6 +8279,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "LibSassBuilder >= 3.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.4",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
@@ -8250,23 +8288,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\Cesae\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
+      "projectUniqueName": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\TeamE-Project.csproj",
       "projectName": "TeamE-Project",
-      "projectPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\TeamE-Project.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\TeamE-Project\\TeamE-Project\\obj\\",
+      "projectPath": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\TeamE-Project.csproj",
+      "packagesPath": "C:\\Users\\Cesae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cesae\\OneDrive - CESAE\\Documents\\GitHub\\TeamE-FinalProject\\TeamE-Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cesae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -8275,6 +8313,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8298,6 +8337,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "LibSassBuilder": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.4, )"
@@ -8340,7 +8383,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
