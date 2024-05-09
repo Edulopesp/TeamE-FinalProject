@@ -232,9 +232,30 @@ namespace TeamE_Project.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<string>("CodigoArea")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Designacao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("Id");
 
                     b.ToTable("Area");
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Calendario", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Calendario");
                 });
 
             modelBuilder.Entity("TeamE_Project.Models.Cidade", b =>
@@ -300,6 +321,45 @@ namespace TeamE_Project.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Nome");
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Programa", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Programa");
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Regime", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Regime");
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Responsavel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Responsavel");
                 });
 
             modelBuilder.Entity("TeamE_Project.Models.Tipo", b =>

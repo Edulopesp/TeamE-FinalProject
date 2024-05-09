@@ -4,8 +4,9 @@ namespace TeamE_Project.Models
 {
     public class Tipo
     {
-
-        [Key] public int Id { get; set; }
+        [Key]
+        public int Id { get; set; }
+        public string Designacao{ get; set; }
 
     }
 }

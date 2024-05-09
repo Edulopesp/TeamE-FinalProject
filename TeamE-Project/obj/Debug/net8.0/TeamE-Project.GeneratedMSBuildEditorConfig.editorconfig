@@ -17,259 +17,339 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeamE_Project
 build_property.RootNamespace = TeamE_Project
-build_property.ProjectDir = C:\Users\User\source\repos\TeamE-Project\TeamE-Project\
+build_property.ProjectDir = C:\Users\Aluno\OneDrive - CESAE\Documentos\GitHub\TeamE-FinalProject\TeamE-Project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\source\repos\TeamE-Project\TeamE-Project
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\OneDrive - CESAE\Documentos\GitHub\TeamE-FinalProject\TeamE-Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Areas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Areas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Areas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Areas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Areas/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Areas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Calendarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Calendarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Calendarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Calendarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Calendarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsZW5kYXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Cidades/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Cidades/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Cidades/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Cidades/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Cidades/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Cidades/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2lkYWRlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Dashboards/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Dashboards/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Dashboards/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Dashboards/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Dashboards/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Dashboards/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formacaos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formacaos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formacaos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formacaos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formacaos/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formacaos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjYW9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formadors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formadors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formadors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formadors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Formadors/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Formadors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFkb3JzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Home/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Home/Privacy.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Nomes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Nomes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Nomes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Nomes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Nomes/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Nomes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9tZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/Error.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Programas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbWFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Programas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbWFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Programas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbWFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Programas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbWFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Programas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbWFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Regimes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Regimes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Regimes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Regimes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Regimes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Responsavels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Responsavels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Responsavels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Responsavels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Responsavels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2F2ZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_Navbar.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/_Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_Sidebar.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Tipoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Tipoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Tipoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Tipoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Tipoes/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Tipoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Create.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Utilizadors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Delete.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Utilizadors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Details.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Utilizadors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Edit.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Utilizadors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Utilizadors/Index.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Utilizadors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGl6YWRvcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/_ViewImports.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/_ViewStart.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/source/repos/TeamE-Project/TeamE-Project/Views/Shared/_Layout.cshtml]
+[C:/Users/Aluno/OneDrive - CESAE/Documentos/GitHub/TeamE-FinalProject/TeamE-Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4os13squqf

@@ -43,4 +43,12 @@ public DbSet<TeamE_Project.Models.Cidade> Cidade { get; set; } = default!;
 public DbSet<TeamE_Project.Models.Nome> Nome { get; set; } = default!;
 
 public DbSet<TeamE_Project.Models.Area> Area { get; set; } = default!;
+
+public DbSet<TeamE_Project.Models.Responsavel> Responsavel { get; set; } = default!;
+
+public DbSet<TeamE_Project.Models.Programa> Programa { get; set; } = default!;
+
+public DbSet<TeamE_Project.Models.Regime> Regime { get; set; } = default!;
+
+public DbSet<TeamE_Project.Models.Calendario> Calendario { get; set; } = default!;
 }
