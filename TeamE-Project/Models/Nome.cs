@@ -8,9 +8,13 @@ namespace TeamE_Project.Models
         [Key]
         public int Id { get; set; }
 
+        [Required]
         public int AreaId { get; set; }
+
+        [Required]
         public string DesignacaoCurso { get; set; }
 
 
+        public ICollection<Formacao> Formacoes { get; set; }
     }
 }

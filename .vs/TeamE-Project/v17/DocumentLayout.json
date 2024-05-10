@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\aluno\\onedrive - cesae\\documentos\\github\\teame-finalproject\\teame-project\\models\\formador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\formador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\aluno\\onedrive - cesae\\documentos\\github\\teame-finalproject\\teame-project\\models\\formacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\formacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\aluno\\onedrive - cesae\\documentos\\github\\teame-finalproject\\teame-project\\models\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\nome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|c:\\users\\aluno\\onedrive - cesae\\documentos\\github\\teame-finalproject\\teame-project\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE42543-9637-458D-99F9-9D17A0F443CC}|TeamE-Project\\TeamE-Project.csproj|solutionrelative:teame-project\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 148,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Formacao.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formacao.cs",
-              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Formacao.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formacao.cs",
-              "RelativeToolTip": "TeamE-Project\\Models\\Formacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "DocumentIndex": 2,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Cidade.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Cidade.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Cidade.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Cidade.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:44:20.435Z",
+              "WhenOpened": "2024-05-10T14:25:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formador.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formador.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Formador.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formador.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Formador.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:23:12.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Nome.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Nome.cs",
-              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Nome.cs",
-              "ToolTip": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Nome.cs",
-              "RelativeToolTip": "TeamE-Project\\Models\\Nome.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "Formacao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formacao.cs",
+              "RelativeDocumentMoniker": "TeamE-Project\\Models\\Formacao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - CESAE\\Documentos\\GitHub\\TeamE-FinalProject\\TeamE-Project\\Models\\Formacao.cs",
+              "RelativeToolTip": "TeamE-Project\\Models\\Formacao.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T11:42:37.227Z",
+              "WhenOpened": "2024-05-10T13:14:41.734Z",
               "EditorCaption": ""
             }
           ]

@@ -4,7 +4,8 @@ namespace TeamE_Project.Models
 {
     public class Dashboard
     {
-        [Key] public int Id { get; set; }
+        [Key]
+        public int Id { get; set; }
 
 
     }

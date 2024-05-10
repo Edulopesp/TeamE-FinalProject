@@ -7,7 +7,11 @@ namespace TeamE_Project.Models
     {
         [Key]
         public int Id { get; set; }
-        public string CodigoArea {get; set; }
+
+        [Required]
+        public string CodigoArea { get; set; }
+
+        [Required]
         public string Designacao { get; set; }
     }
 }

@@ -115,7 +115,7 @@ namespace TeamE_Project.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+                    return LocalRedirect(returnUrl); // redirect apos login bem sucedido
                 }
                 if (result.RequiresTwoFactor)
                 {

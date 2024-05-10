@@ -346,6 +346,8 @@ namespace TeamE_Project.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("FormadorId");
+
                     b.ToTable("Formacao");
                 });
 
@@ -553,6 +555,22 @@ namespace TeamE_Project.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Formacao", b =>
+                {
+                    b.HasOne("TeamE_Project.Models.Formador", "Formador")
+                        .WithMany("Formacoes")
+                        .HasForeignKey("FormadorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Formador");
+                });
+
+            modelBuilder.Entity("TeamE_Project.Models.Formador", b =>
+                {
+                    b.Navigation("Formacoes");
                 });
 #pragma warning restore 612, 618
         }
